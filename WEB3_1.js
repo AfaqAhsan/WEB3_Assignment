@@ -14,4 +14,3 @@ web3.eth.getBalance(account, (err, wei) => {
    
   })
   
-  //get balance of an account
